@@ -70,7 +70,7 @@ button:active {
   }
 
   #keys {
-    padding: o.5rem;
+    padding: 0.5rem;
     grid-template-columns: repeat(4, 1fr);
   }
   button {
@@ -83,6 +83,11 @@ button:active {
   #display {
     font-size: 5vw;
     padding: 0.5rem;
+  }
+
+  #keys {
+    padding: 0.5rem;
+    grid-template-columns: repeat(4, 1fr);
   }
 
   button {
